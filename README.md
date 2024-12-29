@@ -135,14 +135,14 @@ To set things up for this course, what I did (after installing
 `anaconda` or `mamba`) was
 ```
 # Create an environment
-> conda create -n mld2024 numpy scipy scikit-learn pandas seaborn matplotlib jupyter astropy pip
+> conda create -n mld2025 numpy scipy scikit-learn pandas seaborn matplotlib jupyter astropy pip
 ...
-> conda activate mld2024
+> conda activate mld2025
 
 # or using mamba:
-> mamba create -n mld2024 numpy scipy scikit-learn pandas seaborn matplotlib jupyter astropy pip
+> mamba create -n mld2025 numpy scipy scikit-learn pandas seaborn matplotlib jupyter astropy pip
 ...
-> mamba activate mld2024  # depending on your shell you might have to
+> mamba activate mld2025  # depending on your shell you might have to
 use conda activate instead
 
 ```
@@ -171,38 +171,38 @@ clone this. You can follow the instructions below (credit to Alexander
 Mechev for a first version of this) to create a fork of the repository:
 
 -    Make a github account and log in.
--    Go to the [MLD2024
-     repo](https://github.com/jbrinchmann/MLD2024). 
+-    Go to the [MLD2025
+     repo](https://github.com/jbrinchmann/MLD2025). 
 -    Click on the 'Fork' at the top right. This will create a 'fork'
      on your own account. That means that you now have the latest
      commit of the repo and its history in your control. If you've
-     tried to 'git push' to the MLD2024 repo you'd have noticed that
+     tried to 'git push' to the MLD2025 repo you'd have noticed that
      you don't have access to it.
 -    Once it's forked, you can go to your github profile and you'll
-     see a MLD2024 repo. Go to it and get the .git link (green button)
+     see a MLD2025 repo. Go to it and get the .git link (green button)
 -    Somewhere on your machine, do
 
 ```  git clone git clone
-https://github.com/[YOUR_GIT_UNAME]/MLD2024.git
+https://github.com/[YOUR_GIT_UNAME]/MLD2025.git
 
 ```
-- 	 Move into the directory by doing `> cd MLD2024`. 
+- 	 Move into the directory by doing `> cd MLD2025`. 
 -    Add my repo as an upstream. That way you can get (pull) new
      updates: 
 	 ```git remote add upstream
-     https://github.com/jbrinchmann/MLD2024.git
+     https://github.com/jbrinchmann/MLD2025.git
 	 ```
 -    git remote -v should give: origin
-     https://github.com/[YOUR_GIT_UNAME]/MLD2024.git (fetch) origin
-     https://github.com/[YOUR_GIT_UNAME]/MLD2024.git (push) upstream
-     https://github.com/jbrinchmann/MLD2024.git (fetch) upstream
-     https://github.com/jbrinchmann/MLD2024.git (push)
+     https://github.com/[YOUR_GIT_UNAME]/MLD2025.git (fetch) origin
+     https://github.com/[YOUR_GIT_UNAME]/MLD2025.git (push) upstream
+     https://github.com/jbrinchmann/MLD2025.git (fetch) upstream
+     https://github.com/jbrinchmann/MLD2025.git (push)
 -    Now you're ready to add files and folders to your local fork. Use
      `git add`, `git commit` and `git push`. To add store this work online.
 
 ## Lectures
 
-The slides are available in the Lectures directory. You can find some
+The slides will be available in the Lectures directory. You can find some
 files for creating tables in the ProblemSets/MakeTables directory.
 
 
