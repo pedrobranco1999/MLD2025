@@ -1,6 +1,5 @@
-# Machine learning and Databases at CAUP/IA in 2024
+# Machine learning and Databases at CAUP/IA in 2025
 
-The course has started!
 
 ## Course overview
 
