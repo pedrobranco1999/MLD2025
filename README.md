@@ -6,7 +6,7 @@
 This course is part of the doctoral program in astronomy at the
 [Department of Physics and Astronomy](https://www.fc.up.pt/dfa/) at the [University of Porto](https://www.up.pt/portal/en/). The
 course title is ["Topics on Methods and Modelling in
-Astrophysics"](https://sigarra.up.pt/fcup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=528318). The
+Astrophysics"](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=546930). The
 course is divided in two parts.  The first five days are dedicated to
 lectures while the rest is dedicated to a practical
 problemset provided in the lectures.
