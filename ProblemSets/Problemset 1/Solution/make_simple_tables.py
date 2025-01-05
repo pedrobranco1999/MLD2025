@@ -1,0 +1,1 @@
+/Users/jarle/Teaching/MLD2019/ProblemSets/1 - SQL and Databases/Solution/make_simple_tables.py
